@@ -1,0 +1,5 @@
+.venv
+roof_data
+tf_env
+checkpoints
+*.pt
